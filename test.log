@@ -1,0 +1,129 @@
+INFO : root : 2022-07-23 14:56:22,819 : string Constructor is called....
+INFO : root : 2022-07-23 14:56:22,819 : ------------------------------------------stringClass object got created------------------------------------------
+INFO : root : 2022-07-23 14:56:22,819 : extracting data from index one to index 300 with a jump of 3
+INFO : root : 2022-07-23 14:56:22,819 : tssyityopgmncsa alrNph rgni ni
+INFO : root : 2022-07-23 14:56:22,819 : reversing a string without using reverse function
+INFO : root : 2022-07-23 14:56:22,819 : noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO : root : 2022-07-23 14:56:22,819 : spliting a string after conversion of entire string in uppercase
+INFO : root : 2022-07-23 14:56:22,819 : ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO : root : 2022-07-23 14:56:22,819 : converting the whole string into lower case
+INFO : root : 2022-07-23 14:56:22,819 : this is my first python programming class and i am learning python string and its function
+INFO : root : 2022-07-23 14:56:22,819 : capitalizing the whole string
+INFO : root : 2022-07-23 14:56:22,819 : This is my first python programming class and i am learning python string and its function
+INFO : root : 2022-07-23 14:56:22,819 : checking alpha numeric in string
+INFO : root : 2022-07-23 14:56:22,819 : True
+INFO : root : 2022-07-23 14:56:22,819 : checking alphabet in string
+INFO : root : 2022-07-23 14:56:22,819 : True
+INFO : root : 2022-07-23 14:56:22,819 : expand tab is performing on a string
+INFO : root : 2022-07-23 14:56:22,819 : My Name is       Udayavel        RPA Developer
+INFO : root : 2022-07-23 14:56:22,819 : removing space around str
+INFO : root : 2022-07-23 14:56:22,819 : udaya
+INFO : root : 2022-07-23 14:56:22,819 : removing space left of str
+INFO : root : 2022-07-23 14:56:22,819 : udaya  
+INFO : root : 2022-07-23 14:56:22,819 : removing space right of str
+INFO : root : 2022-07-23 14:56:22,819 :   udaya
+INFO : root : 2022-07-23 14:56:22,819 : Replacing a string character by another character
+INFO : root : 2022-07-23 14:56:22,819 : udvyvvel
+INFO : root : 2022-07-23 14:56:22,819 : performing string center function
+INFO : root : 2022-07-23 14:56:22,819 : *******udaya********
+INFO : root : 2022-07-23 14:56:22,819 : ------------------------------------------stringClass completed------------------------------------------
+INFO : root : 2022-07-23 14:56:22,819 : list Constructor is called....
+INFO : root : 2022-07-23 14:56:22,819 : ------------------------------------------listClass object got created------------------------------------------
+INFO : root : 2022-07-23 14:56:22,819 : extracting all list entity from the collection
+INFO : root : 2022-07-23 14:56:22,819 : [1, 2, 3, 4]
+INFO : root : 2022-07-23 14:56:22,819 : ['ineuron', 'data science ']
+INFO : root : 2022-07-23 14:56:22,819 : Try to filter out all the odd values out all numeric data which is a part of a list
+INFO : root : 2022-07-23 14:56:22,819 : 1
+INFO : root : 2022-07-23 14:56:22,834 : 3
+INFO : root : 2022-07-23 14:56:22,834 : Reversing List without for loop
+INFO : root : 2022-07-23 14:56:22,834 : [{'key1': 'sudh', 234: [23, 45, 656]}, (234, 6657, 6), [345, 56, 87, 8, 98, 9], [23, 456, 67, 8, 78, 78], 7, 6, 5, 4, 3]
+INFO : root : 2022-07-23 14:56:22,834 : Accessing 234 from List without for loop
+INFO : root : 2022-07-23 14:56:22,834 : 234
+INFO : root : 2022-07-23 14:56:22,834 : Accessing 456 from List without for loop
+INFO : root : 2022-07-23 14:56:22,834 : 456
+INFO : root : 2022-07-23 14:56:22,834 : extract List 1 from the collection without for loop
+INFO : root : 2022-07-23 14:56:22,834 : [23, 456, 67, 8, 78, 78]
+INFO : root : 2022-07-23 14:56:22,834 : extract List 2 from the collection without for loop
+INFO : root : 2022-07-23 14:56:22,834 : [345, 56, 87, 8, 98, 9]
+INFO : root : 2022-07-23 14:56:22,834 : extract List 3 from the collection without for loop
+INFO : root : 2022-07-23 14:56:22,834 : [23, 45, 656]
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------listClass completed------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : tuple Constructor is called....
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------tupleClass object got created------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : extracting all tuple entity from the collection
+INFO : root : 2022-07-23 14:56:22,834 : (2, 3, 4, 5, 6)
+INFO : root : 2022-07-23 14:56:22,834 : (3, 4, 5, 6, 7)
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------tupleClass completed------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : dict Constructor is called....
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------dictClass object got created------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : extracting all dict entity from the collection
+INFO : root : 2022-07-23 14:56:22,834 : {'k1': 'sudh', 'k2': 'ineuron', 'k3': 'kumar', 3: 6, 7: 8}
+INFO : root : 2022-07-23 14:56:22,834 : dict key count function was initiated
+INFO : root : 2022-07-23 14:56:22,834 : 5
+INFO : root : 2022-07-23 14:56:22,834 : extracting sudh from the collection without for loop
+INFO : root : 2022-07-23 14:56:22,834 : sudh
+INFO : root : 2022-07-23 14:56:22,834 : extracting all the dict values from the collection
+INFO : root : 2022-07-23 14:56:22,834 : extracting first value without for loop
+INFO : root : 2022-07-23 14:56:22,834 : sudh
+INFO : root : 2022-07-23 14:56:22,834 : extracting second value without for loop
+INFO : root : 2022-07-23 14:56:22,834 : [23, 45, 656]
+INFO : root : 2022-07-23 14:56:22,834 : None
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------dictClass completed------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : set Constructor is called....
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------setClass object got created------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : conversion of list into set
+INFO : root : 2022-07-23 14:56:22,834 : {1, 2, 3, 4, 5, 6, 7, 8, 9}
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------setClass completed------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : generic Constructor is called....
+INFO : root : 2022-07-23 14:56:22,834 : ------------------------------------------genericClass object got created------------------------------------------
+INFO : root : 2022-07-23 14:56:22,834 : extracting only numeric value from the collection
+INFO : root : 2022-07-23 14:56:22,834 : 1
+INFO : root : 2022-07-23 14:56:22,834 : 2
+INFO : root : 2022-07-23 14:56:22,834 : 3
+INFO : root : 2022-07-23 14:56:22,834 : 4
+INFO : root : 2022-07-23 14:56:22,834 : 2
+INFO : root : 2022-07-23 14:56:22,834 : 3
+INFO : root : 2022-07-23 14:56:22,834 : 4
+INFO : root : 2022-07-23 14:56:22,834 : 5
+INFO : root : 2022-07-23 14:56:22,834 : 6
+INFO : root : 2022-07-23 14:56:22,834 : 3
+INFO : root : 2022-07-23 14:56:22,834 : 4
+INFO : root : 2022-07-23 14:56:22,834 : 5
+INFO : root : 2022-07-23 14:56:22,834 : 6
+INFO : root : 2022-07-23 14:56:22,834 : 7
+INFO : root : 2022-07-23 14:56:22,834 : 45
+INFO : root : 2022-07-23 14:56:22,834 : 4
+INFO : root : 2022-07-23 14:56:22,834 : 5
+INFO : root : 2022-07-23 14:56:22,834 : 23
+INFO : root : 2022-07-23 14:56:22,834 : 3
+INFO : root : 2022-07-23 14:56:22,834 : 6
+INFO : root : 2022-07-23 14:56:22,834 : 7
+INFO : root : 2022-07-23 14:56:22,834 : 8
+INFO : root : 2022-07-23 14:56:22,834 : sum of numeric value from the collection
+INFO : root : 2022-07-23 14:56:22,834 : 156
+INFO : root : 2022-07-23 14:56:22,834 : Extract ineuron from the collection
+INFO : root : 2022-07-23 14:56:22,834 : ineuron
+INFO : root : 2022-07-23 14:56:22,834 : ineuron
+INFO : root : 2022-07-23 14:56:22,834 : number of occurences of all the data from the collection
+INFO : root : 2022-07-23 14:56:22,834 : k2:1
+INFO : root : 2022-07-23 14:56:22,834 : 1:1
+INFO : root : 2022-07-23 14:56:22,834 : 2:2
+INFO : root : 2022-07-23 14:56:22,834 : 3:4
+INFO : root : 2022-07-23 14:56:22,834 : 4:4
+INFO : root : 2022-07-23 14:56:22,834 : 5:3
+INFO : root : 2022-07-23 14:56:22,834 : 6:3
+INFO : root : 2022-07-23 14:56:22,834 : 7:2
+INFO : root : 2022-07-23 14:56:22,850 : k1:1
+INFO : root : 2022-07-23 14:56:22,850 : k3:1
+INFO : root : 2022-07-23 14:56:22,850 : 8:1
+INFO : root : 2022-07-23 14:56:22,850 : kumar:1
+INFO : root : 2022-07-23 14:56:22,850 : 45:1
+INFO : root : 2022-07-23 14:56:22,850 : data science :1
+INFO : root : 2022-07-23 14:56:22,850 : 23:1
+INFO : root : 2022-07-23 14:56:22,850 : ineuron:2
+INFO : root : 2022-07-23 14:56:22,850 : sudh:1
+INFO : root : 2022-07-23 14:56:22,850 : extracting alphanumeric data from the collection
+INFO : root : 2022-07-23 14:56:22,850 : ['k1', 'sudh', 'k2', 'ineuron', 'k3', 'kumar', 'ineuron']
+INFO : root : 2022-07-23 14:56:22,850 : multiplication of numeric value from the collection
+INFO : root : 2022-07-23 14:56:22,850 : 908605071360000
+INFO : root : 2022-07-23 14:56:22,850 : ------------------------------------------genericClass completed------------------------------------------
